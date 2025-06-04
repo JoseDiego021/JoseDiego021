@@ -8,8 +8,9 @@ Eu sou José Diego, sou um programador Front End, atualmente estou aprendendo e 
 🚀 Código é minha linguagem, inovação é meu propósito.
 
 Sou programador e transformo ideias em sistemas que funcionam — com eficiência, escalabilidade e propósito.
-Se você está procurando alguém que não apenas escreve código, mas entrega soluções reais, vamos conversar.
+Se você está procurando alguém que não apenas escreve código, mas entrega soluções reais.
 <br>
+## <h2>Conecte-se comigo</h2>
 [![Logo-instragram](https://img.freepik.com/vetores-premium/logotipo-de-midia-social-de-contorno-preto_197792-2416.jpg?semt=ais_hybrid&w=50)](https://www.instagram.com/jodiego49/?next=%2F)
 <br>
 
